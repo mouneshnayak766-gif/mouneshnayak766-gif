@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mounesh Nayak Mali Patil</h1>
 
 <h3 align="center">
-🚀 Full Stack Developer | Java & Spring Boot Enthusiast | CSE Student from India
+🚀 java backend Developer | Java & Spring Boot Enthusiast | CSE Student from India
 </h3>
 
 ---
